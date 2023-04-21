@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.profile {
+    height: 90px;
+    border-radius: 50px;
+
+}
+
+.pic-image {
+    height: 20px;
+}
+
+.inactive {
+    background-color: #030405;
+    border-radius: 33px;
+    color: white;
+    padding: 10px;
+    font-family: "Caveat";
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 110px;
+
+}
+
+.active {
+    background-color: #bdf6ff;
+    border-radius: 33px;
+    color: black;
+    padding: 10px;
+    font-family: "Caveat";
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100px;
+}
+
+.dash {
+    height: 50px;
+}
+
+.background-image {
+    border-radius: 30px;
+}
+
+.mainheading {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
